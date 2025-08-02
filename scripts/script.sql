@@ -1,2 +1,2 @@
 SELECT * FROM MOVIMIENTOS
-where emisor like '%ELENA%';
+where EMISOR = 'BCP - INVERSIONES ESENCIA ANDINA'; 
